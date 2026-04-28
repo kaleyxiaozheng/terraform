@@ -1,6 +1,7 @@
 # Install Terraform CLI
 <details><summary>Bash Scripts</summary>
-```bash
+
+```bash 
 # 1. install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
